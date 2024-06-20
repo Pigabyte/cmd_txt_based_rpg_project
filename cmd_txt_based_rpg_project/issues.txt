@@ -1,0 +1,2 @@
+errors with ResList and ResFound, list of item types/list of item specifics
+when navigating through menus, the lists get mixed up for some reason.
